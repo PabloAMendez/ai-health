@@ -1,0 +1,5 @@
+{
+  "name": "AI-HOMA",
+  "description": "Aplicación de IA médica para predecir el índice HOMA-IR basado en Sexo, Glucosa e IMC por inteligencia artificial",
+  "requestFramePermissions": []
+}
